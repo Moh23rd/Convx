@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Download-Stable-37A866?style=for-the-badge&logo=android&logoColor=white" alt="Download the stable Convx release">
     </a>
     <a href="https://github.com/cosmictaserdev-creator/Convx/releases/tag/2.0.0-nightly">
-      <img src="https://img.shields.io/badge/Download-Nightly-5268D8?style=for-the-badge&logo=android&logoColor=white" alt="Download the Convx nightly build">
+      <img src="https://img.shields.io/badge/Download-Nightly-5268D8?style=for-the-badge&logo=android&logoColor=white" alt="Download The Convx Nightly Build">
     </a>
   </p>
   <p>
